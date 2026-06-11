@@ -7,8 +7,7 @@ measurements. This project demonstrates end-to-end ML workflow including data
 exploration, visualization, preprocessing, model training (KNN & Decision Tree),
 evaluation, and model comparison.
 
-Author : Auto-generated
-Date   : 2026-06-10
+Author : Meet
 Dataset: sklearn built-in Iris dataset (150 samples, 4 features, 3 classes)
 """
 
